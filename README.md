@@ -20,6 +20,6 @@ cd backend
 npm install
 npm run dev
 
-### Frontend
+Frontend
 npm install
 npm run dev
